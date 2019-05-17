@@ -31,7 +31,7 @@
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Matthew Beckman       | mdbeckman                 |  <https://mdbeckman.github.io/>                    |  
 | Matt | mdbeckman | some website |
-| Bradford | dykesb | <https://dykesb.github.io> |
+| Scott Manski | scottmanski | <https://scottmanski.github.io/> |
 
 <br>
 
